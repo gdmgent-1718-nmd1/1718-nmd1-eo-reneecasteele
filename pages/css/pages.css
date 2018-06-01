@@ -22,3 +22,49 @@ h1{ color: black;
 
 h2 { 
     color: #D467A5;}
+
+/* Navigatie */
+
+a.over{
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 10px 80px;
+    color: black ;
+}
+
+a.over:hover{
+    color: #D467A5; 
+    transition: 0.5s;
+
+}
+
+a.ticketsinfo{
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 10px 80px;
+    color: black ;
+}
+
+a.ticketsinfo:hover{
+    color: #D467A5; 
+    transition: 0.5s;
+
+}
+
+a.contact{
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 10px 80px;
+    color: black ;
+}
+
+a.contact:hover{
+    color: #D467A5; 
+    transition: 0.5s;
+
+}
+
+.navigatie {
+    margin-top: 5%;
+    
+}
