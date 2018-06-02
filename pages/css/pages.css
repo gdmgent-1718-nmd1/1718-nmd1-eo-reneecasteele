@@ -30,7 +30,14 @@ h2 {
 body.concurrentie{
     background-color:white;
     }
-
+h3 {
+    color: black;
+    font-size: 22px;
+}
+h4 {
+    color: black;
+    font-size: 15px;
+}
 section.concurrent1{
     display: flex;
 }
@@ -50,7 +57,7 @@ div.positievepunten {
     background-color:#f8ecf5;
     border-width: 2px;
     border-style: solid;
-    margin: 5px 5px 20px 5px;
+    margin: 5px 5px 20px 0px;
     padding: 1%;
 }
 
@@ -61,9 +68,15 @@ div.negatievepunten{
     background-color: #f8ecf5;
     border-width:2px;
     border-style: solid;
-    margin: 5px 5px 20px 5px;
+    margin: 5px 5px 20px 0px;
     padding: 1%;
 }
+
+img{
+    width: 400px;
+    
+}
+
 /* Navigatie Styleguide */
 
 a.over{
