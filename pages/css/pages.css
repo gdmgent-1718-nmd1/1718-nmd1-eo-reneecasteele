@@ -48,7 +48,7 @@ div.positievepunten {
     height: auto;
     border-color: white;
     background-color:#f8ecf5;
-    border-width: 1px;
+    border-width: 2px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
     padding: 1%;
@@ -59,7 +59,7 @@ div.negatievepunten{
     height: auto;
     border-color:white;
     background-color: #f8ecf5;
-    border-width:1px;
+    border-width:2px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
     padding: 1%;
