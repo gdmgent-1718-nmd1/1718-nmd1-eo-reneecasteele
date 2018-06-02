@@ -43,6 +43,7 @@ div.positievepunten {
     width: 50%;
     height: auto;
     border-color:green;
+    background-color; lightgreen;
     border-width: 5px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
@@ -52,6 +53,7 @@ div.negatievepunten{
     width: 50%;
     height: auto;
     border-color:red;
+    background-color: pink;
     border-width:5px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
