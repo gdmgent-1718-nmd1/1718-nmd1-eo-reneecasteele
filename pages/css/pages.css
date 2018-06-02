@@ -28,7 +28,7 @@ h2 {
 /* Concurrentie analyse */
 
 body.concurrentie{
-    background-color: #f8ecf5;
+    background-color:white;
     }
 
 section.concurrent1{
@@ -47,8 +47,8 @@ div.positievepunten {
     width: 50%;
     height: auto;
     border-color:#D467A5;
-    background-color: white;
-    border-width: 5px;
+    background-color:#f8ecf5;
+    border-width: 1px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
 }
@@ -57,8 +57,8 @@ div.negatievepunten{
     width: 50%;
     height: auto;
     border-color: #D467A5;
-    background-color:white;
-    border-width:5px;
+    background-color: #f8ecf5;
+    border-width:1px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
 }
