@@ -51,6 +51,7 @@ div.positievepunten {
     border-width: 1px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
+    padding: 1%;
 }
 
 div.negatievepunten{
@@ -61,6 +62,7 @@ div.negatievepunten{
     border-width:1px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
+    padding: 1%;
 }
 /* Navigatie Styleguide */
 
