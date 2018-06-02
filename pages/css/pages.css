@@ -23,7 +23,17 @@ h1{ color: black;
 h2 { 
     color: #D467A5;}
 
-/* Navigatie */
+/* Concurrentie analyse */
+
+div.positievepunten {
+    width: 50%;
+    height: auto;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    margin: 5px 5px 20px 5px;
+
+/* Navigatie Styleguide */
 
 a.over{
     text-decoration: none;
@@ -68,3 +78,4 @@ a.contact:hover{
     margin-top: 5%;
     
 }
+
