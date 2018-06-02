@@ -57,7 +57,7 @@ div.positievepunten {
     background-color:#f8ecf5;
     border-width: 2px;
     border-style: solid;
-    margin: 5px 5px 20px 0px;
+    margin: 5px 30px 20px 0px;
     padding: 1%;
 }
 
@@ -65,10 +65,10 @@ div.negatievepunten{
     width: 50%;
     height: auto;
     border-color:white;
-    background-color: #f8ecf5;
+    background-color:#f8ecf5 ;
     border-width:2px;
     border-style: solid;
-    margin: 5px 5px 20px 0px;
+    margin: 5px 5px 20px 30px;
     padding: 1%;
 }
 
