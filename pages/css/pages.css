@@ -46,7 +46,7 @@ section.concurrent3{
 div.positievepunten {
     width: 50%;
     height: auto;
-    border-color:#D467A5;
+    border-color: white;
     background-color:#f8ecf5;
     border-width: 1px;
     border-style: solid;
@@ -56,7 +56,7 @@ div.positievepunten {
 div.negatievepunten{
     width: 50%;
     height: auto;
-    border-color: #D467A5;
+    border-color:white;
     background-color: #f8ecf5;
     border-width:1px;
     border-style: solid;
