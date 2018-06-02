@@ -17,6 +17,8 @@ img {
 
 /* Voeg jouw css hieraan toe */
 
+/* Algemeen */
+
 h1{ color: black;
 }
 
@@ -25,11 +27,23 @@ h2 {
 
 /* Concurrentie analyse */
 
+section.concurrent1{
+    display: flex;
+}
+
+section.concurrent2{
+    display: flex;
+}
+
+section.concurrent3{
+    display: flex;
+}
+
 div.positievepunten {
     width: 50%;
     height: auto;
-    border-width: 2px;
-    border-color:#D467A5;
+    border-color:green;
+    border-width: 5px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
 }
@@ -37,8 +51,8 @@ div.positievepunten {
 div.negatievepunten{
     width: 50%;
     height: auto;
-    border-color: #D467A5;
-    border-width:2px;
+    border-color:red;
+    border-width:5px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
 }
