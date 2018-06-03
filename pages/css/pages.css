@@ -181,11 +181,12 @@ div.afbeeldingen {
     width: auto;
     height: auto;
     border-color: white;
-    background-color:rgb(248, 236, 245);
+    background-color:#F8ECF5;
     border-width: 2px;
     border-style: solid;
     margin: 5px 5px 20px 5px;
     padding: 1%;
+    
 }
 
 div.elementen {
@@ -200,7 +201,7 @@ div.elementen {
 }
 
 img{
-    width: 250px;
+    width: 400px;
 
 }
 
@@ -214,4 +215,19 @@ h2.titel{
     border-style: solid;
     margin: 30px 5px 10px 5px;
 
+}
+
+h3.roze{
+    color: #d467a5;
+    font-size: 20px;
+}
+
+h5.zwart{
+    color: #000000;
+    font-size: 20px;
+}
+
+h4.grijs{
+    color: #cfccc3;
+    font-size: 20px;
 }
