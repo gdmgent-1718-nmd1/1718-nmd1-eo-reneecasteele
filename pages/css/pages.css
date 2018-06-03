@@ -30,6 +30,10 @@ p {
     color: black;
 }
 
+h3 {
+    color: #D467A5;
+}
+
 div.tekst {
     width: auto;
     height: auto;
@@ -37,21 +41,10 @@ div.tekst {
     background-color:rgb(248, 236, 245);
     border-width: 2px;
     border-style: solid;
-    margin: 5px 0px 20px 0px;
+    margin: 5px 0px 30px 0px;
     padding: 1%;
 }
 
-dl.info{
-    color: black;
-    width: auto;
-    height: auto;
-    border-color: white;
-    background-color:rgb(248, 236, 245);
-    border-width: 2px;
-    border-style: solid;
-    margin: 5px 0px 20px 0px;
-    padding: 1%;
-}
 
 /* Concurrentie analyse */
 
@@ -61,7 +54,7 @@ body.concurrentie{
 
 p {
     color: black;
-    
+
 }
 
 h3 {
