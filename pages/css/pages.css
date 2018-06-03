@@ -257,3 +257,33 @@ h4.grijs{
     color: #cfccc3;
     font-size: 20px;
 }
+
+.div{
+    border-bottom: 1px solid black ;
+    margin: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 500px;
+}
+
+.title{
+    float: right;
+    width: 500px;
+    text-align: right;
+    padding-left: 0px; 
+    padding-right: 20px;
+    background-color:white;
+    color:black;
+    
+}
+
+
+.title{
+    float: left;
+    width: 200px;
+    text-align: right;
+    padding-left: 10px; 
+    background-color:#F8ECF5;
+    color:black;
+    
+}
