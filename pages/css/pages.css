@@ -23,13 +23,15 @@ h1{ color: black;
 }
 
 h2 { 
-    color: #D467A5;}
+    color: #D467A5;
+}
 
 /* Concurrentie analyse */
 
 body.concurrentie{
     background-color:white;
-    }
+}
+
 h3 {
     color: black;
     font-size: 22px;
@@ -74,7 +76,6 @@ div.negatievepunten{
 
 img{
     width: 250px;
-    
 }
 
 /* Navigatie Styleguide */
@@ -89,7 +90,6 @@ a.over{
 a.over:hover{
     color: #D467A5; 
     transition: 0.5s;
-
 }
 
 a.tickets{
@@ -102,7 +102,6 @@ a.tickets{
 a.tickets:hover{
     color: #D467A5; 
     transition: 0.5s;
-
 }
 
 a.locatie{
@@ -115,7 +114,6 @@ a.locatie{
 a.locatie:hover{
     color: #D467A5; 
     transition: 0.5s;
-
 }
 
 a.contact{
@@ -128,12 +126,9 @@ a.contact{
 a.contact:hover{
     color: #D467A5; 
     transition: 0.5s;
-
 }
-
 
 .navigatie {
     margin-top: 5%;
-    
 }
 
